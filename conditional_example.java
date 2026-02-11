@@ -49,4 +49,32 @@ class LogicalOperatorsExample {
             System.out.println("You don't need an umbrella");
         }
     }
+} 
+
+class ForLoopContDown {
+    public static void main (String[] args) {
+        for (int i = 5; i >= 1; i--) {
+            System.out.println(i);
+        }
+    }
 }
+
+class ForLoopContDown2 {
+    public static void main(String[] args) {
+        for ( int i = 5 ; i >= 1; i--){
+            System.out.println(i);
+            
+            
+        }
+    }
+}
+  class ForLoopContDown3 {
+
+    
+        public static void main(String[] args) {
+            for(int i = 1; i <= 20; i++) {
+                System.out.println(i);
+            }
+        }
+    
+  }
