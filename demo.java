@@ -73,4 +73,4 @@ class ArrayMax{
             System.out.println("max:"+max);
 
     }
-}
+} 
